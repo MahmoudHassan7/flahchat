@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Flash Chat
 //
-//  Created by Mahmoud Hassab on 29/12/2020.
+//  Created by Mahmoud Hassan on 29/12/2020.
 
 
 import UIKit
